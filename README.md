@@ -16,7 +16,7 @@ Here you'll find projects ranging from small scripts to larger applications. Eac
 
 ## Total Hours Spent
 
-As of now, the cumulative hours spent on the projects is approximately **76** hours. I've dedicated this time to improving my craft and delivering quality work.
+As of now, the cumulative hours spent on the projects is approximately **83** hours. I've dedicated this time to improving my craft and delivering quality work.
 
 ## Connect with Me
 
