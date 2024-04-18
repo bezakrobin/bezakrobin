@@ -14,10 +14,6 @@ Hello there 👋! I'm Robin Bezak, and this is my personal repository where I ho
 
 Here you'll find projects ranging from small scripts to larger applications. Each project is a learning step and showcases different skills and technologies I've been exploring.
 
-## Total Hours Spent
-
-As of now, the cumulative hours spent on the projects is approximately **84** hours. I've dedicated this time to improving my craft and delivering quality work.
-
 ## Connect with Me
 
 - Portfolio: [bezakrobin.com](https://bezak-robin-portfolio-website.onrender.com/)
