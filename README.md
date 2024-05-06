@@ -16,11 +16,9 @@ Here you'll find projects ranging from small scripts to larger applications. Eac
 
 ## Connect with Me
 
-- Portfolio: [bezakrobin.com](https://bezak-robin-portfolio-website.onrender.com/)
 - LinkedIn: [bezak-robin](https://www.linkedin.com/in/bezak-robin/)
 - Instagram: [robin.bezak](https://www.instagram.com/robin.bezak/)
-- Discord: robin.bezak
-- Email: bezakrobin@gmail.com
+- Email: it@amurg.cz
 
 ---
 
