@@ -16,9 +16,8 @@ Here you'll find projects ranging from small scripts to larger applications. Eac
 
 ## Connect with Me
 
-- LinkedIn: [bezak-robin](https://www.linkedin.com/in/bezak-robin/)
 - Instagram: [robin.bezak](https://www.instagram.com/robin.bezak/)
-- Email: it@amurg.cz
+- Email: robin.bezak.99@gmail.com
 
 ---
 
