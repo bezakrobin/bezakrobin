@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/bezakrobin/bezakrobin/assets/76775905/3a4666b4-8f3a-48a0-bd55-9c36655233c4)
-
 # Hi there, I'm Robin Bezák! 👋
 
 🚀 **Junior Web Developer** | 💡 Tech Enthusiast | 🎯 Lifelong Learner
