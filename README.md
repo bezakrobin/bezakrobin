@@ -68,12 +68,12 @@ Here's a selection of my public projects on GitHub.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/bezakrobin/github-readme-stats">
+  <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezakrobin&show_icons=true&theme=tokyonight" alt="Robin's GitHub Stats" />
-  </a>
-  <a href="https://github.com/bezakrobin/github-readme-stats">
+  </div>
+  <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezakrobin&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <div>
 </p>
 
 ---
