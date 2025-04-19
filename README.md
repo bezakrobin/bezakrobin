@@ -68,10 +68,10 @@ Here's a selection of my public projects on GitHub.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezakrobin&show_icons=true&theme=tokyonight&rank_icon=github" alt="Robin's GitHub Stats" />
+  <a href="https://github.com/bezakrobin/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezakrobin&show_icons=true&theme=tokyonight" alt="Robin's GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/bezakrobin/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezakrobin&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
