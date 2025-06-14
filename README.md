@@ -27,34 +27,6 @@ Here are some of the technologies and tools I enjoy working with:
 
 ---
 
-## 🚀 My Public Repositories
-
-Here's a selection of my public projects on GitHub.
-
-### [ios-calculator-web](https://github.com/bezakrobin/ios-calculator-web)
-    A functional web clone of the standard iOS calculator built with React and TypeScript.
-
-### [friday-marketplace](https://github.com/bezakrobin/friday-marketplace)
-    Web application concept for an online marketplace - in developement.
-
-### [zeleznicni-dodavatelstvi](https://github.com/bezakrobin/zeleznicni-dodavatelstvi)
-    Project related to railway supply or contracting information.
-
-### [burger-pizza-barbershop](https://github.com/bezakrobin/burger-pizza-barbershop)
-    3D model related to local businesses.
-
-### [certificates-collection](https://github.com/bezakrobin/certificates-collection)
-    My own collection of digital certificates.
-
-### [cashflow-web](https://github.com/bezakrobin/cashflow-web)
-    A web application focused on tracking or managing financial cash flow.
-
-### [batch-script-tools](https://github.com/bezakrobin/batch-script-tools)
-    A collection of utility tools written using Windows Batch scripting (.bat).
-
-### [windows-kms-activator](https://github.com/bezakrobin/windows-kms-activator)
-    A tool related to Windows activation using KMS methods.
-
 ➡️ Explore all my public work in my [repositories tab](https://github.com/bezakrobin?tab=repositories).
 
 ---
